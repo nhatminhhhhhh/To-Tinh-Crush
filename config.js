@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'He luuu chị',
+    introTitle: 'He luuu chị. Em chỉ có một câu này muốn hỏi chị thôi àa',
     
     btnIntro: 'tới công chuyện nào',
     title: 'Đừng giận em nữa nhaa',
@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Ừ...hong giận em nữa <33',
     btnNo: 'Không, vẫn còn bực !! ',
     question:'Nếu lúc nãy bị ép buộc chọn thì cho chị trả lời lại nè. Vì sao chị hết giận vậy ^^',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho emm <3',
     reply: 'Vì minnie ngoannn',
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'Lúc nào rảnh thì lại call xem phim nhê. Còn giờ thì chần chừ gì mà ko ib em ngay nào ^^',
