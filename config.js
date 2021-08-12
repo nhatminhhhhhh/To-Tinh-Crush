@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Ừ...hong giận em nữa <33',
     btnNo: 'Không, vẫn còn bực !! ',
     question:'Nếu lúc nãy bị ép buộc chọn thì cho chị trả lời lại nè. Vì sao chị hết giận vậy ^^',
-    btnReply: 'Gửi cho emm <3',
+    btnReply: 'Gửi cho emmm <3',
     reply: 'Vì minnie ngoannn',
     mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
     messDesc: 'Lúc nào rảnh thì lại call xem phim nhê. Còn giờ thì chần chừ gì mà ko ib em ngay nào ^^',
